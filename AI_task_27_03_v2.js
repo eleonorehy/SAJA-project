@@ -1,5 +1,5 @@
 /************************************ 
- * TEST LOLO IB Test *
+ * TEST AI  *
  ************************************/
 
 import { core, data, sound, util, visual } from './lib/psychojs-2022.1.3.js';
